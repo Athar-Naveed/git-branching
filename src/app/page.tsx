@@ -4,6 +4,8 @@ export default function Home() {
       <div className="text-center">
         <h1>Testing Backend Branches</h1>
         <span>What to say now!</span>
+        <span>Online Got Testing!</span>
+        <h2>Second try</h2>
       </div>
       <div>Testing sub branches, inside the branches</div>
     </>
